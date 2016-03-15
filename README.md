@@ -1,2 +1,2 @@
 # distributedu
-A simple Python framework to simulate distributed systems
+A simple Python framework for simulating distributed systems.
